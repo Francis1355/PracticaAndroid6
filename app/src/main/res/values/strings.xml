@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">PracticaAndroid6</string>
+    <string name="text.Desc">Nota Final Del Curso</string>
+    <string name="txt.calif">Ingresa tus calificaciones de las practicas de aula</string>
+    <string name="text.Desc.Lab">Ingresa tus calificaciones de las practicas de laboratorio</string>
+    <string name="hint.PA1">P.A1</string>
+    <string name="hint.PA2">P.A2</string>
+    <string name="hint.PA3">P.A3</string>
+    <string name="hint.PA4">P.A4</string>
+    <string name="hint.PB1">P.B1</string>
+    <string name="hint.PB2">P.B2</string>
+    <string name="hint.PB3">P.B3</string>
+    <string name="hint.PB4">P.B4</string>
+    <string name="hint.btn">Calcular</string>
+    <color name="ROJO">#DE0814</color>
+
+
+</resources>
